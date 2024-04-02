@@ -1,0 +1,64 @@
+2. What is OOP? List OOP concepts:-
+
+
+OOP stands for Object-Oriented Programming. It is a programming paradigm that revolves around the concept of objects, which can contain data in the form of fields (attributes or properties) and code in the form of procedures (methods or functions). OOP aims to organize code into reusable and modular components, making it easier to develop and maintain complex software systems. Here are some key concepts of OOP:
+
+1. Class: A blueprint or template for creating objects. It defines the properties (attributes) and behaviors (methods) that objects of the class will have.
+
+2. Object: An instance of a class. Objects are tangible entities that encapsulate data and behavior specified by their class.
+
+3. Encapsulation: Encapsulation is the bundling of data (attributes) and methods (functions) that operate on the data into a single unit or class. It hides the internal state of an object from the outside world and only exposes the necessary functionalities.
+
+4. Inheritance: Inheritance is a mechanism where a new class (subclass or derived class) is created based on an existing class (superclass or base class). The subclass inherits the properties and behaviors of the superclass, allowing code reuse and promoting the concept of hierarchy.
+
+5. Polymorphism: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It enables a single interface to represent different underlying forms (data types or classes). Polymorphism can be achieved through method overriding (runtime polymorphism) or method overloading (compile-time polymorphism).
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+3. What is the difference between OOP and POP?
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+parameter                                 OOP                                    POP
+----------------------------------------------------------------------------------------------------------------------------------------
+
+DEFINITION                         This type of programming               This programming language uses a step-by-step approach for
+                                                                          breaking down a task into a collection of 
+                                   language uses objects and              routines and variables by following a sequence of instructions.
+                        objects and classes for creating models.
+ 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+ABBREVIATION               oop                                                  pop
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+APPROACH                     bottom-up approach                              top-down approach
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+CODE REUSABILITY                      support                                   don't support 
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXAMPLE                         c++,java                                          c,fortran
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
